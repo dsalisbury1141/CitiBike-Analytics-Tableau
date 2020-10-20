@@ -54,3 +54,4 @@ My evaluations were based on two months of data, September 2019, and September 2
 <h3>CitiBike User type count with trip durations all stations</h3>
 <li>Customer: 665,127   Durations count: 1,476, 921495</li>
 <li>Subscriber: 1,806,279  Durations count: 1,922,039,404</li>
+<li>
