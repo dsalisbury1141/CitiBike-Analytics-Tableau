@@ -12,7 +12,7 @@ https://public.tableau.com/profile/dawn.salisbury#!/
 <img align="center" src="  " width="600">
 
 # 2019
-Top  Start Station with Highest "Count" Trip Durations 
+# Top  Start Station with Highest "Count" Trip Durations
 <li> Purshing Square North total trips: 15,951 </il>
 <li>Male 13,584 and Female 2,367</li>
 
@@ -20,31 +20,31 @@ Top  Start Station with Highest "Count" Trip Durations
 <li>Start: West Street & Chambers Street</li>
 <li>End: West Street & Chambers  Street</li>
 
-CitiBike User Type by age & Gender 
+# CitiBike User Type by age & Gender 
 <li>Female customers - ages 17 - 83</li>
 <li>Female subscriber - ages 17 - 85, highest count for subscriptions</li>
 <li>Male customers - ages 17 - 85</li>
 <li>Male subscriber - ages 17 - 85, highest count for subscriptions</li>
 
-## CitiBike User type count with trip durations all stations
+# CitiBike User type count with trip durations all stations
 <li>Customer: 827,110,254   Durations count:  432,613</li>
 <li>Subscriber: 1,646, 890, 881 Durations count: 2,006,268</li>
 
 # 2020
-## Top  Start Station with Highest "Count" Trip Durations  
+# Top  Start Station with Highest "Count" Trip Durations  
 <li>W 21 St & 6Th ave total trips:  12, 621 </li>
 <li>Male 8,527 and Female 4,094</li>
 
-Top Start and End Sstations for all Riders (same for both)
+# Top Start and End Sstations for all Riders (same for both)
 <li>Start: West Street & Libert Street</li>
 <li>End: West Street & Libert Street</li>
 
-CitiBike User Type by age & Gender 
+# CitiBike User Type by age & Gender 
 <li>Female customers - ages 17 - 85</li>
 <li>Female subscriber - ages 17 - 85, highest count for subscriptions</li>
 <li>Male customers - ages 17 - 80</li>
 <li>Male subscriber - ages 17 - 85, highest count for subscriptions</li>
 
-CitiBike User type count with trip durations all stations
+# CitiBike User type count with trip durations all stations
 <li>Customer: 665,127   Durations count: 1,476, 921495</li>
 <li>Subscriber: 1,806,279  Durations count: 1,922,039,404</li>
