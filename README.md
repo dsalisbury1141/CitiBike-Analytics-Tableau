@@ -4,15 +4,15 @@ The dataset are extreemly large, too big to save to GIT respository take a look 
 https://www.citibikenyc.com/system-data
 
 #  CitiBike Phenomena's for mothe September 2019 & 2020 comparison
-## My evaluations were based on two months of data, September 2019, and September 2020.  I chose these months to measure the difference in subscribers and ridership before and during the covid lockdowns within this NY city area for CitiBike ridership.</li>
+My evaluations were based on two months of data, September 2019, and September 2020.  I chose these months to measure the difference in subscribers and ridership before and during the covid lockdowns within this NY city area for CitiBike ridership.</li>
 
-## The data was extremely large and forced me to evaluate each month separately in 2 different dashboards.  Please refer to each dashboard for grading purposes.  Also, I will summarize my GitHub repository. 
+#The data was extremely large and forced me to evaluate each month separately in 2 different dashboards.  Please refer to each dashboard for grading purposes.  Also, I will summarize my GitHub repository. 
 https://public.tableau.com/profile/dawn.salisbury#!/
-<li>Sorting and plotting data to build a our story<li>
-<img align="center" src="https://github.com/dsalisbury1141/Project-2/blob/master/Dawn/Images/plot1.PNG" width="600">
+
+<img align="center" src="  " width="600">
 
 # 2019
-## Top  Start Station with Highest "Count" Trip Durations 
+Top  Start Station with Highest "Count" Trip Durations 
 <li> Purshing Square North total trips: 15,951 </il>
 <li>Male 13,584 and Female 2,367</li>
 
