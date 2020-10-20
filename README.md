@@ -1,4 +1,4 @@
-# Tableau-CitiBike-Analytics
+# Tableau-CitiBike-Analytics Assignment link https://public.tableau.com/profile/dawn.salisbury#!/
 This repository is a reflection of the Tableau homework, to include Tableau Public links
 The dataset are extreemly large, too big to save to GIT respository take a look at this awesome data fomr the CitiBike data system
 https://www.citibikenyc.com/system-data
@@ -7,7 +7,7 @@ https://www.citibikenyc.com/system-data
 My evaluations were based on two months of data, September 2019, and September 2020.  I chose these months to measure the difference in subscribers and ridership before and during the covid lockdowns within this NY city area for CitiBike ridership.</li>
 
 #The data was extremely large and forced me to evaluate each month separately in 2 different dashboards.  Please refer to each dashboard for grading purposes.  Also, I will summarize my GitHub repository. 
-https://public.tableau.com/profile/dawn.salisbury#!/
+
 
 <img align="center" src="  " width="600">
 
