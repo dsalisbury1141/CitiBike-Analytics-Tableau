@@ -42,7 +42,7 @@ My evaluations were based on two months of data, September 2019, and September 2
 <li>End: West Street & Libert Street</li>
 
 ## User typ by age, I found this very interesting because there are many folks over 60 years of age that rent bikes on a daily basis. 
-<img align="center" src="  " width="600">  <img align="center" src="  " width="600">
+<img align="center" src="https://github.com/dsalisbury1141/Tableau-CitiBike-Analytics/blob/main/Images/2019%20ages.PNG" width="300">  <img align="center" src="https://github.com/dsalisbury1141/Tableau-CitiBike-Analytics/blob/main/Images/2020%20ages.PNG" width="300">
 
 <h3>2019 CitiBike User Type by age & Gender </h3>
 <li>Female customers - ages 17 - 83</li>
