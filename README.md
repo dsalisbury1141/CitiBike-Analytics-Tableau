@@ -54,4 +54,4 @@ Please note that this repository is a reflection of the Tableau homework, to inc
 <li>Male customers - ages 17 - 80</li>
 <li>Male subscriber - ages 17 - 85, highest count for subscriptions</li>
 
-
+Data used for this assignment came from the public Citi Bike Data webpage. https://www.citibikenyc.com/system-data
