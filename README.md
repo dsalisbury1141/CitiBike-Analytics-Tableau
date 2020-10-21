@@ -12,7 +12,7 @@ My evaluations were based on two months of data, September 2019, and September 2
 
 
 <img align="center" src="  " width="600">    <img align="center" src="  " width="600">
-# we can see in the bar graph below that the top station for each year changed from 2019 to 2020 however, the ridership for males were higher with CitibBike than with females. 
+## we can see in the bar graph below that the top station for each year changed from 2019 to 2020 however, the ridership for males were higher with CitibBike than with females. 
 
 <img align="center" src="https://github.com/dsalisbury1141/Tableau-CitiBike-Analytics/blob/main/Images/2019%201%20pop%20stations.png" width="300"> <img align="center" src="https://github.com/dsalisbury1141/Tableau-CitiBike-Analytics/blob/main/Images/2020%201%20pop%20station.png" width="300">
 <h3> 2019 Top  Start Station with Highest "Count" Trip Durations</h3>
@@ -33,10 +33,16 @@ My evaluations were based on two months of data, September 2019, and September 2
 <li>Customer: 665,127   Durations count: 1,476, 921495</li>
 <li>Subscriber: 1,806,279  Durations count: 1,922,039,404</li>
 <li>
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-<h3>Top  Start and End Stations for all Riders (same for both)</h3>
+
+## Here we evaluate the top station that is used for start and end trips. We can see that both are the same but differ for each year. 
+<img align="center" src="https://github.com/dsalisbury1141/Tableau-CitiBike-Analytics/blob/main/Images/2019%202%20stations.png" width="300">  <img align="center" src="https://github.com/dsalisbury1141/Tableau-CitiBike-Analytics/blob/main/Images/2020%202map.png" width="300">
+<h3>2019 Top  Start and End Stations for all Riders (same for both)</h3>
 <li>Start: West Street & Chambers Street</li>
 <li>End: West Street & Chambers  Street</li>
+
+<h3>2020 Top Start and End Stations for all Riders (same for both)</h3>
+<li>Start: West Street & Libert Street</li>
+<li>End: West Street & Libert Street</li>
 
 <h3>CitiBike User Type by age & Gender </h3>
 <li>Female customers - ages 17 - 83</li>
@@ -48,7 +54,7 @@ My evaluations were based on two months of data, September 2019, and September 2
 # 2020
 
 
-<h3>Top Start and End Stations for all Riders (same for both)</h3>
+<h3>2020 Top Start and End Stations for all Riders (same for both)</h3>
 <li>Start: West Street & Libert Street</li>
 <li>End: West Street & Libert Street</li>
 
