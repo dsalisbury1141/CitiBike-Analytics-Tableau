@@ -5,7 +5,7 @@ This repository is a reflection of the Tableau homework, to include Tableau Publ
 My evaluations were based on two months of data, September 2019, and September 2020.  I chose these months to measure the difference in subscribers and ridership before and during the COVID lockdowns within this NY city area for CitiBike ridership.</li>
 
 #The data was extremely large and forced me to evaluate each month separately in 2 different dashboards.  Please refer to each dashboard for grading purposes.  Also, I will summarize my GitHub repository. 
-<img align="center" src="  " width="600">
+
 
 ## we can see in the bar graph below that the top station for each year changed from 2019 to 2020 however, the ridership for males were higher with CitibBike than with females. 
 
