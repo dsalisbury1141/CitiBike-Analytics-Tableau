@@ -48,9 +48,9 @@ My evaluations were based on two months of data, September 2019, and September 2
 <li>Female customers - ages 17 - 83</li>
 <li>Female subscriber - ages 17 - 85, highest count for subscriptions</li>
 <li>Male customers - ages 17 - 85</li>
-<li>Male subscriber - ages 17 - 85, highest count for subscriptions</li
+<li>Male subscriber - ages 17 - 85, highest count for subscriptions</li>
 
-<h3>2020 CitiBike User Type by age & Gender </h3>
+<h3>2020 CitiBike User Type by age & Gender</h3>
 <li>Female customers - ages 17 - 85</li>
 <li>Female subscriber - ages 17 - 85, highest count for subscriptions</li>
 <li>Male customers - ages 17 - 80</li>
