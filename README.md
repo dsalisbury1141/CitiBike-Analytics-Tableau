@@ -12,8 +12,9 @@ My evaluations were based on two months of data, September 2019, and September 2
 
 
 <img align="center" src="  " width="600">    <img align="center" src="  " width="600">
-# we can see that the top station for each year changed however, the ridership was higher in 2019, males ride more with CitibBike than females. 
-<img align="center" src="  " width="600"> <img align="center" src="  " width="600">
+# we can see that the top station for each year changed from 2019 to 2020 however, the ridership for males were higher with CitibBike than with females. 
+
+<img align="center" src="https://github.com/dsalisbury1141/Tableau-CitiBike-Analytics/blob/main/Images/2019%201%20pop%20stations.png" width="300"> <img align="center" src="https://github.com/dsalisbury1141/Tableau-CitiBike-Analytics/blob/main/Images/2020%201%20pop%20station.png" width="300">
 <h3> 2019 Top  Start Station with Highest "Count" Trip Durations</h3>
 <li> Purshing Square North total trips: 15,951 </il>
 <li>Male 13,584 and Female 2,367</li>
