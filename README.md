@@ -1,4 +1,4 @@
-<h3>Tableau-CitiBike-Analytics Assignment link https://public.tableau.com/profile/dawn.salisbury#!/</h3>
+<h3>Tableau public link https://public.tableau.com/profile/dawn.salisbury#!/</h3>
 This repository is a reflection of the Tableau homework, to include Tableau Public links
 The dataset are extreemly large, too big to save to GIT respository take a look at this awesome data fomr the CitiBike data system
 https://www.citibikenyc.com/system-data
@@ -44,21 +44,15 @@ My evaluations were based on two months of data, September 2019, and September 2
 <li>Start: West Street & Libert Street</li>
 <li>End: West Street & Libert Street</li>
 
-<h3>CitiBike User Type by age & Gender </h3>
+## User typ by age, I found this very interesting because there are many folks over 60 years of age that rent bikes on a daily basis. 
+<img align="center" src="  " width="600">  <img align="center" src="  " width="600">
+<h3>2019 CitiBike User Type by age & Gender </h3>
 <li>Female customers - ages 17 - 83</li>
 <li>Female subscriber - ages 17 - 85, highest count for subscriptions</li>
 <li>Male customers - ages 17 - 85</li>
-<li>Male subscriber - ages 17 - 85, highest count for subscriptions</li>
+<li>Male subscriber - ages 17 - 85, highest count for subscriptions</li
 
-
-# 2020
-
-
-<h3>2020 Top Start and End Stations for all Riders (same for both)</h3>
-<li>Start: West Street & Libert Street</li>
-<li>End: West Street & Libert Street</li>
-
-<h3>CitiBike User Type by age & Gender </h3>
+<h3>2020 CitiBike User Type by age & Gender </h3>
 <li>Female customers - ages 17 - 85</li>
 <li>Female subscriber - ages 17 - 85, highest count for subscriptions</li>
 <li>Male customers - ages 17 - 80</li>
