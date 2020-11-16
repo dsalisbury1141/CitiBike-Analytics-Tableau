@@ -1,4 +1,4 @@
-#  CitiBike Phenomena's for months September 2019 & 2020 comparison
+#  CitiBike Phenomena's for month of September 2019 & 2020 comparison
 My evaluations were based on two months of data, September 2019, and September 2020.  I chose these months to measure the difference in subscribers and ridership before and during the COVID lockdowns within this NY city area for CitiBike ridership.</li>
 <h4>see my Tableau public link https://public.tableau.com/profile/dawn.salisbury#!/</h3>
 
